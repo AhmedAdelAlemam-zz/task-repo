@@ -78,7 +78,7 @@ export default {
       maxResults: this.$parent.api.maxResults,
       q: this.$parent.api.q,
       key: this.$parent.api.key,
-      requestedChannelId: "UCZTLU39XbfN04FBXVc0vD1g",
+      requestedChannelId: "UCSJbGtTlrDami-tDGPUV9-w",
     };
   },
   props: ["videos", "reformattedSearchString", "totalResults"],
